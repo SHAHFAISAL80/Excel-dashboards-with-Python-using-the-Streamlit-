@@ -1,0 +1,4 @@
+cd "E:\best project 4\streamlit-sales-dashboard-main"
+
+
+streamlit run app.py
